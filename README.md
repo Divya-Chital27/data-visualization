@@ -40,7 +40,7 @@ This repository contains practical examples of different charts, plot customizat
 
 ### Matplotlib
 
-![Matplotlib Scatter Plot](images/matplotlib-scatter.png)
+![Matplotlib Scatter Plot](images/matplotlib-scatterplot.png)
 
 ### Seaborn
 
