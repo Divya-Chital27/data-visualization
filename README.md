@@ -65,6 +65,4 @@ The goal of this repository is to build a strong foundation in **Python data vis
 - Jupyter Notebook / Google Colab
 
 
-│   └── plotly-animation.png
-│
-└── README.md
+
